@@ -80,7 +80,7 @@ El maestro controla los nodos que tienen Puppet instalado y ejecutan el agente d
 
 Puppet opera en un modo de extracción, con agentes que sondean al maestro a intervalos regulares para recibir configuraciones específicas del sitio y del nodo. La aplicación del agente Puppet a menudo se ejecuta como un servicio en segundo plano en nodos controlados en este sistema. Se pueden encontrar más detalles en Descripción general de la arquitectura de Puppet.
 
-![logo](https://dc722jrlp2zu8.cloudfront.net/media/cache/9e/cf/9ecfe0498a52e3e7a71b78599b0f676e.webp)
+![logo](https://static.packt-cdn.com/products/9781783981427/graphics/1427OS_02_03.jpg)
 
 
 ## **¿Qué es exactamente Puppet en DevOps?**
